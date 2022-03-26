@@ -1,7 +1,6 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--This Bot is Made By XTQ067 Project-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
-</p>
+  <img src="resources/https://te.legra.ph/file/b74c73377bdb347744d21.jpg
 
 ### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
   <a href="https://github.com/XTQ067"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
